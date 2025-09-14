@@ -5,7 +5,7 @@ This ia a simple java based Shopping Cart System implemented in java using conce
 - Apply Festive or Bulk discounts
 - Calculate the final payable amount
 
-  # ⚙️Features
+  # Features
 - Product Managemen -> Each product has a name ,price, and quantity
 - Discount System -> two types of discounts one is Festive and another one is Bulk
       FestiveDiscount has 10% off discount
@@ -32,11 +32,11 @@ Laptop 50000 1
 Mousw 500 2
 Keybord 1500 6
 
-📁Project Structre
+>Project Structre
 ShoppingCartSystem  #main program file
 README.md           #Dpcumentation
 
 # Author
 . Developed by Abhilash Busa
-. 📧Email : abhilashbusa442@gmail.com
-. 🌐gitHub: abhilashbuasa-gitacc01
+. Email : abhilashbusa442@gmail.com
+. gitHub: abhilashbuasa-gitacc01
