@@ -97,7 +97,7 @@ public class ShoppingCartSystem {
             discount = new Discount() {
                 @Override
                 public double applyDiscount(double total, List<Product> products) {
-                    return total; // no discount if invalid type
+                    return total;
                 }
             };
         }
